@@ -10,7 +10,7 @@ This exercise aims to compare solutions of quicksort in C and Prolog in terms of
 > C: ./quick X (Where X is the size of array)
 
 # Comparison
-![plot](/newplot.png)
+![plot](/newplot(1).png)
 
 # Conclusions
 * In prolog implmetation, when user run quicksort7.pl or above the prolog give us the error "Out of local stack". (The line above 6-size represents an overflow)
