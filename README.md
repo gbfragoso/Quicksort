@@ -9,6 +9,10 @@ This exercise aims to compare solutions of quicksort in C and Prolog in terms of
 
 > C: ./quick X (Where X is the size of array)
 
+# Input
+* C: The input file is generated at execution time. 
+* Prolog: We need to run "combXgenerator.pl" (where X is size of list, using "run." clause) before execution of "quicksortX.pl" or rename an file with all combinations of X numbers to combX.txt.  
+
 # Comparison
 ![plot](/newplot(1).png)
 
