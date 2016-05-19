@@ -17,7 +17,7 @@ This exercise aims to compare solutions of quicksort in C and Prolog in terms of
 ![plot](/newplot(1).png)
 
 ### Notes
-* The prolog line stops at size 6 because prolog give us error "Out of local stack" when we trying to sort the size 7, or above, lists.
+* The prolog line stops at size 6 because prolog give us error "Out of local stack" when we trying to sort the size 7 or above.
 
 # Conclusions
 * In prolog implmetation, when user run quicksort7.pl or above the prolog give us the error "Out of local stack". (The line above 6-size represents an overflow)
